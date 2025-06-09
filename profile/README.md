@@ -1,3 +1,4 @@
+![file1](banner.png)
 # ✨ Travu – Travel With You ✈️🇮🇩⛰️🌳🌊
 
 ## Personalized & Sustainable Travel Recommendations with AI
